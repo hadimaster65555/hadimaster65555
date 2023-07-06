@@ -10,8 +10,8 @@ I have a strong background in data analysis, machine learning, and statistical m
 ### Project 1: [My Talk](https://github.com/hadimaster65555/my-talks)
 Repository of all my slides for webminars or workshops.
 
-### Project 2: [Project Name](link-to-project-repo)
-Summarize another notable project, emphasizing its significance or impact.
+### Project 2: [Dataset for Teaching](https://github.com/hadimaster65555/dataset_for_teaching)
+Dataset that I always used for teaching. Feel free to used!
 
 ### ...
 
