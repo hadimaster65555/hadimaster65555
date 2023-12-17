@@ -7,13 +7,19 @@ I have a strong background in data analysis, machine learning, and statistical m
 
 ## Projects and Repositories
 
-### Project 1: [My Talks](https://github.com/hadimaster65555/my-talks)
+### Project 1: [Data Science Project]()
+Repository of (nearly) all of my data science portfolios.
+
+### Project 2: [My Talks](https://github.com/hadimaster65555/my-talks)
 Repository of all my slides for webminars or workshops.
 
-### Project 2: [Dataset for Teaching](https://github.com/hadimaster65555/dataset_for_teaching)
+### Project 3: [Dataset for Teaching](https://github.com/hadimaster65555/dataset_for_teaching)
 Dataset that I always used for teaching. Feel free to used!
 
-### ...
+### Project 4: [Awesome R Package for Business Analytics](https://github.com/hadimaster65555/awesome-r-package-for-business)
+Curation of a lot of R packages we can use to do analysis especially to solve business problems and gain insight.
+
+### ... (Coming Soon!)
 
 You will find more of my projects and code repositories in my GitHub repositories section.
 
