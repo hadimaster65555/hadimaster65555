@@ -7,7 +7,7 @@ I have a strong background in data analysis, machine learning, and statistical m
 
 ## Projects and Repositories
 
-### Project 1: [Data Science Project]()
+### Project 1: [Data Science Project](https://github.com/hadimaster65555/data-science-project)
 Repository of (nearly) all of my data science portfolios.
 
 ### Project 2: [My Talks](https://github.com/hadimaster65555/my-talks)
