@@ -33,6 +33,6 @@ I am open to collaboration, discussions, and opportunities in the field of data 
 - Email: hadimaster65555@gmail.com
 - LinkedIn: [RM Hadi Suryo Suharto](https://www.linkedin.com/in/raden-muhammad-hadi-suryo-suharto/)
 - Twitter: [@hadimaster65555](https://twitter.com/hadiamster65555)
-- My Consulting and Mentoring Company Instagram: [@statsmaster_ds](https://www.instagram.com/statsmaster_ds/)
+- My Consulting and Mentoring Company Instagram: [@statsmaster_ds](https://www.instagram.com/statsmaster_ds/) and website: [statsmaster.co.id](https://statsmaster.co.id)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
